@@ -12,7 +12,7 @@ const LenoxBotSettingsProvider = require('./utils/SettingsProvider');
 require('moment-duration-format');
 
 // const shardId = process.env.SHARD_COUNT;
-const token = process.env.CLIENT_TOKEN;
+const token = process.env.TOKEN;
 
 // settings.json checks
 if (!settings.owners.length) {
