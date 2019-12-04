@@ -1,7 +1,7 @@
 {
     "owners": ["595363188074086402"],
     "administrators": ["595363188074086402"],
-    "token": "process.env.TOKEN",
+    "token": "NjI2NDU4Nzk1MjQ5MzY5MTA0.XeelJw.JkYBo_IHkYCFwZZ-EZDtMboy58Y",
     "prefix": ".",
     "auddKey": "Audd Lyrics API Key",
     "googleKey": "Google Custom Search API Key",
