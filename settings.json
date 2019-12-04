@@ -1,8 +1,8 @@
 {
-    "owners": ["Required", "UserID", "UserID"],
-    "administrators": ["UserID", "UserID", "UserID"],
-    "token": "Required. Your Super Secret Token",
-    "prefix": "Required. Standard Prefix",
+    "owners": ["595363188074086402"],
+    "administrators": ["595363188074086402"],
+    "token": "process.env.TOKEN",
+    "prefix": ".",
     "auddKey": "Audd Lyrics API Key",
     "googleKey": "Google Custom Search API Key",
     "googlekey": "Youtube API key",
